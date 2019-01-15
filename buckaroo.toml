@@ -1,0 +1,37 @@
+targets = [ "//:program-options" ]
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-any"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-bind"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-config"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-function"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-iterator"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-lexical_cast"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-math"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-smart_ptr"
+version = "branch=master"
+
+[[dependency]]
+package = "github.com/buckaroo-pm/boost-tokenizer"
+version = "branch=master"
